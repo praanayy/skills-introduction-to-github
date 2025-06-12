@@ -1,1 +1,1 @@
-This is a preview file.
+Welcome to my GitHub profile!
